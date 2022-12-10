@@ -2,7 +2,7 @@
 
 ## Conditions for issue
 
-- Bazel 6.0.0rc1, rc2, rc3 & rc3 (did not test with pre-releases 6.0.0)
+- Bazel 6.0.0rc1, rc2, rc3 & rc4 (did not test with pre-releases 6.0.0)
 ## Issue
 
 The status of repository rules that are eagerly loaded in the WORKSPACE file are not seen
