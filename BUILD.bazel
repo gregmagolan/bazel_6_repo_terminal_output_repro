@@ -1,0 +1,5 @@
+genrule(
+  name = "make_foo",
+  outs = ["foo"],
+  cmd = """echo 42 > $@"""
+)
